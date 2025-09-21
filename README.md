@@ -51,6 +51,5 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold; color: #1976d2;"><a href="https://github.com/googleads/google-ads-python" style="color: #1976d2; text-decoration: none;">🛠️ google-ads-python</a></span> - Google Ads API Client Library for Python - <a href="https://github.com/googleads/google-ads-python/commit/63f183eb6e50d6c76f524c0e2a3a1dcf7dad7b67"> view changes </a>
 
 </pre>
-[![Pragyan profile views](https://u8views.com/api/v1/github/profiles/85186756/views/day-week-month-total-count.svg)](https://u8views.com/github/PragyanTiwari)
 ---
 
