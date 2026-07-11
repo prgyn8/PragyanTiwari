@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Pragyan Tiwari">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f9fc"/>
+      <stop offset="50%" stop-color="#f1f3f8"/>
+      <stop offset="100%" stop-color="#eceef4"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#d8dce6" stroke-width="0.5" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="url(#bg)"/>
+  <rect width="1200" height="90" fill="url(#grid)"/>
+  <line x1="0" y1="89" x2="1200" y2="89" stroke="#d0d4de" stroke-width="1"/>
+  <text x="600" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#1a1a2e" letter-spacing="0.5">Pragyan Tiwari</text>
+  <text x="600" y="68" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c6370" letter-spacing="2.5">ML / DATA SCIENCE RESEARCHER</text>
+</svg>
