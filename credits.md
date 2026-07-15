@@ -1,8 +1,8 @@
 ## 👋 About me
 
-I'm a **data scientist** (*aspiring*, and deliberately so — still building the depth I want before calling it done). I work on **ML foundations** because I care about understanding models from the ground up, not just running them. Lately I've been building **agentic workflows** with **Google ADK** and **LangChain** — using LLMs to handle tedious analysis steps while keeping the model's reasoning visible and articulated.
-
-I have a solid base in **statistics for experimentation** — designing hypothesis tests, benchmarking against sensible baselines, and checking whether a result holds up on real-world data before treating it as real.
+- I'm a data scientist (*aspiring*...), working on ML Foundations (*cause i deeply care, laying the foundations...*) and build agentic workflows (*handling the tedious tasks with LLMs but also articulating model's responses...)*.
+- I've  a pretty good statistical knowledge for experimentation and implenting on real world scenarios (running hypothesis and figuring out with benchmark models)
+- Building agentic workflow with Google ADK (*in dominant...*) and LangChain.
 
 ---
 
@@ -14,9 +14,9 @@ I have a solid base in **statistics for experimentation** — designing hypothes
 
 <br/>
 
-#### 🧮 Current marimo notebook
+#### 🧮 Marimo notebook (*Gram-Schmidt Process with interactive cells*)
 
-Implementing **matrix factorization** for **SVD**, **PCA**, and **control stability** in reactive **marimo** notebooks — so each step stays visible instead of hidden inside a library call. The **Gram–Schmidt / QR** notebook is the latest in the series.
+I've been writing the implementations of matrix factorization techniques in python used in **SVD, PCA, Control Stability** with simulations in [marimo](https://marimo.io/), so that people understand how each step works.
 
 <br/>
 
@@ -25,19 +25,19 @@ Implementing **matrix factorization** for **SVD**, **PCA**, and **control stabil
 <a href="https://github.com/prgyn8/Matrix-Decomposition-Implementations"><img src="https://img.shields.io/badge/⌘_Source_code-181717?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Source code"/></a>
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
 #### 📬 Connect
 
-Open to research discussions, collaborations, and feedback on notebooks or ML workflows.
+Open to research discussions, collaborations, and feedback on notebooks or projects.
 
 <br/><br/>
 
 <a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-@prgyn8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
-<a href="PLACEHOLDER_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/pragyantiwari/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/><br/>
-<a href="mailto:PLACEHOLDER_EMAIL"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:tiwaripragyan099@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </td>
 </tr>
@@ -51,20 +51,18 @@ Open to research discussions, collaborations, and feedback on notebooks or ML wo
 
 #### 🤝 Community
 
-**Open Source Lead** at [GDG IIPS Campus](PLACEHOLDER_GDG_URL) — coordinating contributions and collaborative technical work on campus.
-
-Also a **Marimo Ambassador**, helping others adopt reactive, reproducible notebook workflows.
+**Open Source Lead** at [GDG IIPS Campus](https://gdg.community.dev/gdg-on-campus-iips-international-institute-of-professional-studies-davv-indore-india/); helping peers to get in touch with new tools in Open-Source domain.
 
 <br/>
 
-<a href="PLACEHOLDER_GDG_URL"><img src="https://img.shields.io/badge/🌐_GDG_IIPS_Campus-4285F4?style=for-the-badge&labelColor=1a73e8&logo=google&logoColor=white" alt="GDG IIPS Campus"/></a>
+<a href="https://gdg.community.dev/gdg-on-campus-iips-international-institute-of-professional-studies-davv-indore-india/"><img src="https://img.shields.io/badge/🌐_GDG_IIPS_Campus-4285F4?style=for-the-badge&labelColor=1a73e8&logo=google&logoColor=white" alt="GDG IIPS Campus"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 #### 🩺 Breast cancer classification
 
-**Decision tree** classification on the Wisconsin breast cancer dataset — with **SHAP**-based explainability, so every prediction comes with a reason, not just a label.
+Predicted alone with decision tree, and tuned with individual parameters, instead of compeletely relying on GridSearch. Alongside, used SHAP to show how the model explains each variable.
 
 <br/>
 
@@ -82,14 +80,14 @@ Also a **Marimo Ambassador**, helping others adopt reactive, reproducible notebo
 
 #### 🤖 LangChain data assistant
 
-A **ReAct agent** that turns natural language into **pandas** operations using **LLaMA3** and **LangChain** — GenAI as an analysis companion, not a black box.
+A **ReAct agent** that turns natural language into **pandas** operations using **LLaMA3** and **LangChain** — GenAI as an analysis companion, not a black box.(*Yet to update this one...*)
 
 <br/>
 
 <a href="https://github.com/prgyn8/LangChain-GenAI-Data-Assistant"><img src="https://img.shields.io/badge/↗_Explore_assistant-1C3C3C?style=for-the-badge&labelColor=111827&logo=langchain&logoColor=white" alt="Explore LangChain assistant"/></a>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
 #### 🔭 Currently working on
 
@@ -100,15 +98,3 @@ A **ReAct agent** that turns natural language into **pandas** operations using *
 </td>
 </tr>
 </table>
-
----
-
-<p align="center"><sub>— thanks for reading —</sub></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake.svg"/>
-</picture>
-</p>

@@ -1,8 +1,8 @@
 ## 👋 About me
 
-I'm a **data scientist** (*aspiring*, and deliberately so — still building the depth I want before calling it done). I work on **ML foundations** because I care about understanding models from the ground up, not just running them. Lately I've been building **agentic workflows** with **Google ADK** and **LangChain** — using LLMs to handle tedious analysis steps while keeping the model's reasoning visible and articulated.
-
-I have a solid base in **statistics for experimentation** — designing hypothesis tests, benchmarking against sensible baselines, and checking whether a result holds up on real-world data before treating it as real.
+- I'm a data scientist (*aspiring*...), working on ML Foundations (*cause i deeply care, laying the foundations...*) and build agentic workflows (*handling the tedious tasks with LLMs and articulating model's responses...)*.
+- I've  a pretty good statistical knowledge for experimentation and implenting on real world scenarios (running hypothesis and figuring out with benchmark models)
+- Building agentic workflow with Google ADK (*in dominant...*) and LangChain.
 
 ---
 
@@ -14,11 +14,11 @@ I have a solid base in **statistics for experimentation** — designing hypothes
 
 <br/>
 
-#### 🧮 Marimo notebooks
+#### 🧮 Marimo notebook (*Gram-Schmidt Process with interactive cells*)
 
 Writing implementations of **matrix factorization** for **SVD**, **PCA**, and **control stability** — with simulations in **marimo**, so each step is visible instead of buried in a library call.
 
-The **Gram–Schmidt / QR** notebook is live on [molab](https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app); the full series lives on [GitHub](https://github.com/prgyn8/Matrix-Decomposition-Implementations).
+Find this marimo app live on [molab](https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app); code source [GitHub](https://github.com/prgyn8/Matrix-Decomposition-Implementations).
 
 <br/>
 
@@ -29,13 +29,13 @@ The **Gram–Schmidt / QR** notebook is live on [molab](https://molab.marimo.io/
 
 #### 📬 Connect
 
-Open to research chats, collaborations, and notebook feedback.
+Open to connect, collab, and chat.
 
 <br/><br/>
 
-<a href="PLACEHOLDER_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/pragyantiwari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/><br/>
-<a href="mailto:PLACEHOLDER_EMAIL"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:tiwaripragyan099@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <br/><br/>
 <a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-prgyn8-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
@@ -51,7 +51,7 @@ Open to research chats, collaborations, and notebook feedback.
 
 #### 🩺 Breast cancer classification
 
-**Decision tree** classification on the Wisconsin dataset — with **SHAP** explainability, so predictions come with reasons, not just labels.
+Predicted alone with decision tree, and tuned with individual parameters, instead of compeletely relying on GridSearch. Alongside, used SHAP to show how the model explains each variable. 
 
 <br/>
 
