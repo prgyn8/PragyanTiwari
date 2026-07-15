@@ -1,119 +1,117 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Pragyan Tiwari" width="100%"/>
-</p>
+## 👋 About me
 
-<p align="center">
-  <sub><strong>Research Notes</strong> &nbsp;|&nbsp; ML &amp; Data Science &nbsp;|&nbsp; GitHub Edition</sub>
-</p>
+I'm a **data scientist** (*aspiring*, and deliberately so — still building the depth I want before calling it done). I work on **ML foundations** because I care about understanding models from the ground up, not just running them. Lately I've been building **agentic workflows** with **Google ADK** and **LangChain** — using LLMs to handle tedious analysis steps while keeping the model's reasoning visible and articulated.
 
----
-
-**Pragyan Tiwari** builds machine learning systems where the math is visible and the conclusions are testable. His work spans **matrix decomposition** (SVD, PCA, QR), **interpretable classification pipelines** with SHAP, and **statistical hypothesis testing** on real-world datasets — often published as interactive **marimo** notebooks rather than static reports. He also leads open-source efforts at **GDG IIPS**, helping others ship collaborative technical work.
+I have a solid base in **statistics for experimentation** — designing hypothesis tests, benchmarking against sensible baselines, and checking whether a result holds up on real-world data before treating it as real.
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top" align="center">
 
-#### 🔬 Decomposition &amp; signal
-
-Pragyan approaches data through **linear algebra and classical machine learning** — matrix factorization, dimensionality reduction, and signal-oriented thinking before any model is fit. The goal is to understand structure in the data, not just optimize a score.
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 Interpretability &amp; inference
-
-Every pipeline is built to be **explained and verified**: SHAP for model interpretation, **hypothesis testing** (t-tests, chi-square, DOE) for statistical claims, and medical or insurance datasets where conclusions must hold up to scrutiny.
-
-</td>
-</tr>
-</table>
-
----
-
-### 📓 In Focus · Interactive marimo notebooks
-
-<p align="center">
-  <img src="./assets/marimo-notebooks.gif" alt="Reactive marimo notebooks on SVD, PCA, and QR decomposition" width="85%"/>
-</p>
-
-<p align="center">
-  <sub><em>Fig. 1 — Reactive marimo notebooks on SVD, PCA, and QR decomposition.</em></sub>
-</p>
-
-<p align="center">
-  <a href="https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app"><img src="https://img.shields.io/badge/Open_live_notebook-marimo-6366f1?style=for-the-badge" alt="Open live notebook"/></a>
-  &nbsp;
-  <a href="https://github.com/prgyn8/Matrix-Decomposition-Implementations"><img src="https://img.shields.io/badge/Source_code-GitHub-181717?style=for-the-badge&logo=github" alt="Source code on GitHub"/></a>
-</p>
-
----
-
-### Selected work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Wisconsin Breast Cancer Classification**
-
-An end-to-end **medical ML pipeline**: exploratory analysis, PCA feature engineering, decision tree training, hyperparameter tuning, and **SHAP**-based interpretation — so every prediction can be explained.
+<img src="./assets/gs.gif" alt="Marimo matrix decomposition notebooks" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/prgyn8/Breast-cancer-prediction-with-DecisionTree"><img src="https://img.shields.io/badge/View_repository-GitHub-181717?style=for-the-badge&logo=github" alt="View repository"/></a>
+#### 🧮 Marimo notebooks
 
-</td>
-<td width="33%" valign="top">
+Writing implementations of **matrix factorization** for **SVD**, **PCA**, and **control stability** — with simulations in **marimo**, so each step is visible instead of buried in a library call.
 
-**Medical Insurance Hypothesis Testing**
-
-When does a pattern in data actually matter? This project applies **t-tests**, **chi-square tests**, and **interaction plots** to medical insurance costs — separating noise from statistically significant findings.
+The **Gram–Schmidt / QR** notebook is live on [molab](https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app); the full series lives on [GitHub](https://github.com/prgyn8/Matrix-Decomposition-Implementations).
 
 <br/>
 
-<a href="https://github.com/prgyn8/Hypothesis-Testing-Medical-Insurance-Data"><img src="https://img.shields.io/badge/View_repository-GitHub-181717?style=for-the-badge&logo=github" alt="View repository"/></a>
+<a href="https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app"><img src="https://img.shields.io/badge/Open_notebook-marimo-6366f1?style=for-the-badge" alt="Open notebook"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="35%" valign="top" align="center">
 
-**LangChain Data Assistant**
+#### 📬 Connect
 
-A **ReAct agent** that turns natural language into pandas operations using **LLaMA3** and **LangChain** — GenAI applied as an analysis tool, not a black box.
+Open to research chats, collaborations, and notebook feedback.
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/prgyn8/LangChain-GenAI-Data-Assistant"><img src="https://img.shields.io/badge/View_repository-GitHub-181717?style=for-the-badge&logo=github" alt="View repository"/></a>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <sub>Also see: <a href="https://github.com/prgyn8/Linear-Regression-with-outlier-detection">outlier detection via PDF/CDF/z-score</a></sub>
-</p>
-
----
-
-### 🤝 Community
-
-Pragyan serves as **open source lead** at [GDG IIPS](PLACEHOLDER_GDG_URL), coordinating community contributions and collaborative technical projects. If you are working on ML, data, or open source in the same space, he is open to **research discussions and collaborations**.
-
----
-
-<p align="center">
-
-<a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-prgyn8-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-&nbsp;
 <a href="PLACEHOLDER_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br/><br/>
+<a href="mailto:PLACEHOLDER_EMAIL"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<br/><br/>
+<a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-prgyn8-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### 🩺 Breast cancer classification
+
+**Decision tree** classification on the Wisconsin dataset — with **SHAP** explainability, so predictions come with reasons, not just labels.
+
+<br/>
+
+<a href="https://github.com/prgyn8/Breast-cancer-prediction-with-DecisionTree"><img src="https://img.shields.io/badge/View_project-GitHub-181717?style=for-the-badge&logo=github" alt="View project"/></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### 📈 Outlier detection (residuals)
+
+Outliers flagged through **probability density functions**, then tested again in their absence — a small check of whether the model was leaning on noise.
+
+<br/>
+
+<a href="https://github.com/prgyn8/Linear-Regression-with-outlier-detection"><img src="https://img.shields.io/badge/View_project-GitHub-181717?style=for-the-badge&logo=github" alt="View project"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+#### 🔭 What I'm working on right now
+
+✏️ Next up: the **QR decomposition** notebook in the matrix series &nbsp;·&nbsp; 🐳 **Dockerizing** the breast cancer project &nbsp;·&nbsp; 🎬 A **YouTube comment classification** workflow using the **YouTube API**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+#### 🤝 Community & contributions
+
+- **Open Source Lead** at [GDG IIPS Campus](PLACEHOLDER_GDG_URL) and
+- **Marimo Ambassador** on the side — both are about helping others ship technical work, not just using tools alone.
+
+Key contributions: [**ai-hedge-fund**](https://github.com/prgyn8/ai-hedge-fund) (multi-agent financial workflows) and [**google-ads-python**](https://github.com/prgyn8/google-ads-python) (Google Ads API client library). More repos on [GitHub](https://github.com/prgyn8?tab=repositories).
+
+<br/>
+
+<a href="https://github.com/prgyn8/ai-hedge-fund"><img src="https://img.shields.io/badge/ai--hedge--fund-GitHub-181717?style=for-the-badge&logo=github" alt="ai-hedge-fund"/></a>
 &nbsp;
-<a href="https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app"><img src="https://img.shields.io/badge/Marimo_notebooks-Live-6366f1?style=for-the-badge" alt="Marimo notebooks"/></a>
+<a href="https://github.com/prgyn8/google-ads-python"><img src="https://img.shields.io/badge/google--ads--python-GitHub-181717?style=for-the-badge&logo=github" alt="google-ads-python"/></a>
 
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center"><sub>— end of edition —</sub></p>
+---
+
+<p align="center"><sub>— thanks for reading —</sub></p>
 
 <p align="center">
 <picture>
