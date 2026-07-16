@@ -88,7 +88,7 @@ Predicted alone with decision tree, and tuned with individual parameters, instea
 
 <p align="center"><strong>🤖 LangChain data assistant</strong></p>
 
-A **ReAct agent** that turns natural language into **pandas** operations using **LLaMA3** and **LangChain** — GenAI as an analysis companion, not a black box.(*Yet to update this one...*)
+reACT agent for pandas using LLAMA3-70B—built with LangChain.(*Yet to update this one...*)
 
 <br/>
 
@@ -101,22 +101,10 @@ A **ReAct agent** that turns natural language into **pandas** operations using *
 
 <p align="center"><strong>🔭 Currently working on</strong></p>
 
-- ✏️ **QR decomposition** — next notebook in the matrix series
+- ✏️ **QR decomposition** next notebook in the matrix series
 - 🐳 **Dockerizing** the breast cancer classification project
-- 🎬 **YouTube comment classification** — sequential workflow with the **YouTube API**
+- 🎬 **YouTube comment classification** sequential workflow with the **YouTube API**
 
 </td>
 </tr>
 </table>
-
----
-
-<p align="center"><sub>— thanks for reading —</sub></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/prgyn8/prgyn8/output/snake.svg"/>
-</picture>
-</p>
