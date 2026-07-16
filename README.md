@@ -1,6 +1,6 @@
 ## 👋 About me
 
-- I'm a data scientist (*aspiring*...), working on ML Foundations (*cause i deeply care, laying the foundations...*) and build agentic workflows (*handling the tedious tasks with LLMs and articulating model's responses...)*.
+- I'm a data scientist (*aspiring*...), working on ML Foundations (*cause i deeply care, laying the foundations...*) and build agentic workflows (*handling the tedious tasks with LLMs but also articulating model's responses...)*.
 - I've  a pretty good statistical knowledge for experimentation and implenting on real world scenarios (running hypothesis and figuring out with benchmark models)
 - Building agentic workflow with Google ADK (*in dominant...*) and LangChain.
 
@@ -8,79 +8,40 @@
 
 <table>
 <tr>
-<td width="65%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
-<img src="./assets/gs.gif" alt="Marimo matrix decomposition notebooks" width="100%"/>
+<p align="center"><strong>🧮 Marimo notebook (<em>Gram-Schmidt Process with interactive cells</em>)</strong></p>
 
-<br/>
+<p align="center">
+  <img src="./assets/gs.gif" alt="Current marimo notebook demo" width="100%"/>
+</p>
 
-#### 🧮 Marimo notebook (*Gram-Schmidt Process with interactive cells*)
-
-Writing implementations of **matrix factorization** for **SVD**, **PCA**, and **control stability** — with simulations in **marimo**, so each step is visible instead of buried in a library call.
-
-Find this marimo app live on [molab](https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app); code source [GitHub](https://github.com/prgyn8/Matrix-Decomposition-Implementations).
+I've been writing the implementations of matrix factorization techniques in python used in **SVD, PCA, Control Stability** with simulations in [marimo](https://marimo.io/), so that people understand how each step works.
 
 <br/>
 
-<a href="https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app"><img src="https://img.shields.io/badge/Open_notebook-marimo-6366f1?style=for-the-badge" alt="Open notebook"/></a>
-
-</td>
-<td width="35%" valign="top" align="center">
-
-#### 📬 Connect
-
-Open to connect, collab, and chat.
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/pragyantiwari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<br/><br/>
-<a href="mailto:tiwaripragyan099@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<br/><br/>
-<a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-prgyn8-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-#### 🩺 Breast cancer classification
-
-Predicted alone with decision tree, and tuned with individual parameters, instead of compeletely relying on GridSearch. Alongside, used SHAP to show how the model explains each variable. 
-
-<br/>
-
-<a href="https://github.com/prgyn8/Breast-cancer-prediction-with-DecisionTree"><img src="https://img.shields.io/badge/View_project-GitHub-181717?style=for-the-badge&logo=github" alt="View project"/></a>
+<p align="center">
+  <a href="https://molab.marimo.io/notebooks/nb_TAVLehyiE58b5RDzjxFxSW/app"><img src="https://marimo.io/molab-shield.svg" alt="Open in molab"/></a>
+  &nbsp;
+  <a href="https://huggingface.co/spaces/PragyanTiwari/Gram-Schmidt-Orthonormal-Basis"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg" alt="Open in Spaces"/></a>
+  &nbsp;
+  <a href="https://github.com/prgyn8/Matrix-Decomposition-Implementations"><img src="./assets/view-source-github-sm.svg" alt="View source code"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-#### 📈 Outlier detection (residuals)
+<p align="center"><strong>📬 Connect</strong></p>
 
-Outliers flagged through **probability density functions**, then tested again in their absence — a small check of whether the model was leaning on noise.
+Open to research discussions, collaborations, and feedback on notebooks or projects.
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/prgyn8/Linear-Regression-with-outlier-detection"><img src="https://img.shields.io/badge/View_project-GitHub-181717?style=for-the-badge&logo=github" alt="View project"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center">
-
-#### 🔭 What I'm working on right now
-
-✏️ Next up: the **QR decomposition** notebook in the matrix series &nbsp;·&nbsp; 🐳 **Dockerizing** the breast cancer project &nbsp;·&nbsp; 🎬 A **YouTube comment classification** workflow using the **YouTube API**
+<a href="https://github.com/prgyn8"><img src="https://img.shields.io/badge/GitHub-@prgyn8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/pragyantiwari/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br/><br/>
+<a href="mailto:tiwaripragyan099@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </td>
 </tr>
@@ -90,20 +51,59 @@ Outliers flagged through **probability density functions**, then tested again in
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
-#### 🤝 Community & contributions
+<p align="center"><strong>🤝 Community</strong></p>
 
-- **Open Source Lead** at [GDG IIPS Campus](PLACEHOLDER_GDG_URL) and
-- **Marimo Ambassador** on the side — both are about helping others ship technical work, not just using tools alone.
-
-Key contributions: [**ai-hedge-fund**](https://github.com/prgyn8/ai-hedge-fund) (multi-agent financial workflows) and [**google-ads-python**](https://github.com/prgyn8/google-ads-python) (Google Ads API client library). More repos on [GitHub](https://github.com/prgyn8?tab=repositories).
+**Open Source Lead** at [GDG IIPS Campus](https://gdg.community.dev/gdg-on-campus-iips-international-institute-of-professional-studies-davv-indore-india/); helping peers to get in touch with new tools in Open-Source domain.
 
 <br/>
 
-<a href="https://github.com/prgyn8/ai-hedge-fund"><img src="https://img.shields.io/badge/ai--hedge--fund-GitHub-181717?style=for-the-badge&logo=github" alt="ai-hedge-fund"/></a>
-&nbsp;
-<a href="https://github.com/prgyn8/google-ads-python"><img src="https://img.shields.io/badge/google--ads--python-GitHub-181717?style=for-the-badge&logo=github" alt="google-ads-python"/></a>
+<p align="center">
+<a href="https://gdg.community.dev/gdg-on-campus-iips-international-institute-of-professional-studies-davv-indore-india/"><img src="https://img.shields.io/badge/🌐_GDG_IIPS_Campus-4285F4?style=for-the-badge&labelColor=1a73e8&logo=google&logoColor=white" alt="GDG IIPS Campus"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<p align="center"><strong>🩺 Breast cancer classification</strong></p>
+
+Predicted alone with decision tree, and tuned with individual parameters, instead of compeletely relying on GridSearch. Alongside, used SHAP to show how the model explains each variable.
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/prgyn8/Breast-cancer-prediction-with-DecisionTree"><img src="https://img.shields.io/badge/↗_View_project-2ea043?style=for-the-badge&labelColor=1a7f37&logo=github&logoColor=white" alt="View breast cancer project"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="left">
+
+<p align="center"><strong>🤖 LangChain data assistant</strong></p>
+
+A **ReAct agent** that turns natural language into **pandas** operations using **LLaMA3** and **LangChain** — GenAI as an analysis companion, not a black box.(*Yet to update this one...*)
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/prgyn8/LangChain-GenAI-Data-Assistant"><img src="https://img.shields.io/badge/↗_Explore_assistant-1C3C3C?style=for-the-badge&labelColor=111827&logo=langchain&logoColor=white" alt="Explore LangChain assistant"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<p align="center"><strong>🔭 Currently working on</strong></p>
+
+- ✏️ **QR decomposition** — next notebook in the matrix series
+- 🐳 **Dockerizing** the breast cancer classification project
+- 🎬 **YouTube comment classification** — sequential workflow with the **YouTube API**
 
 </td>
 </tr>
