@@ -1,8 +1,8 @@
 ## 👋 About me
 
-- I'm a data scientist (*aspiring*...), working on ML Foundations (*cause i deeply care, laying the foundations...*) and build agentic workflows (*handling the tedious tasks with LLMs but also articulating model's responses...)*.
+- I'm a data scientist (*aspiring ✨*...), working on ML Foundations (*cause i deeply care, laying the foundations 🧱...*) and build agentic workflows (*handling the tedious tasks with LLMs but also articulating model's responses...)*.
 - I've  a pretty good statistical knowledge for experimentation and implenting on real world scenarios (running hypothesis and figuring out with benchmark models)
-- Building agentic workflow with Google ADK (*in dominant...*) and LangChain.
+- Building agentic workflow with Google ADK (*in dominant 💪...*) and LangChain 🦜.
 
 ---
 
